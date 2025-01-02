@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-The Excel project utilizes the Blinkit dataset to create an interactive dashboard for comprehensive data visualization and analysis. The dashboard features dynamic charts, slicers, and filters, enabling users to explore trends, track key metrics, and identify insights effortlessly.
+# Interactive Excel Project | Real time Blinkit Analysis 
+## Project Objective
+To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.

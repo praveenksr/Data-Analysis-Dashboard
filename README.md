@@ -61,3 +61,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 6. Sales by Outlet Location:
 
    Objective: Assess the geographic distribution of sales across different locations.
+
+   # Dash Board
+   ![Screenshot 2025-01-02 213202](https://github.com/user-attachments/assets/73028fcd-803a-41b1-81b6-bc32f1d38f7d)
+

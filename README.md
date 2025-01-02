@@ -17,7 +17,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 4. Average Rating: The average customer rating for items sold.
 
 ## DashBoard
-- <a [href="https://github.com/praveenksr/Data-Analysis-Dashboard/blob/72580b53a63073506096114f3f935461b61971d3/BlinkIT_sales.xlsx](https://github.com/praveenksr/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-02%20205736.png)">DashBoard</a>
+- <a href="https://github.com/praveenksr/Data-Analysis-Dashboard/blob/main/Screenshot%202025-01-02%20205736.png">DashBoard</a>
 
 
 ## Chart's Requirements
